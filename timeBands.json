@@ -1,0 +1,8 @@
+{
+  "bands": [
+    { "start": "05:00", "end": "07:00", "pricePerHour": 50000 },
+    { "start": "07:00", "end": "12:00", "pricePerHour": 60000 },
+    { "start": "16:00", "end": "20:00", "pricePerHour": 150000 }
+  ],
+  "defaultPricePerHour": 40000
+} 

@@ -1,0 +1,9 @@
+[
+  { "id": "1", "name": "Nước suối", "price": 10000 },
+  { "id": "2", "name": "Revive", "price": 15000 },
+  { "id": "3", "name": "Pocari", "price": 20000 },
+  { "id": "4", "name": "Bò Hút", "price": 20000 },
+  { "id": "5", "name": "Chanh Muối", "price": 15000 },
+  { "id": "6", "name": "Kem", "price": 0 }
+
+] 
