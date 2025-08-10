@@ -4,8 +4,11 @@
   { "id": "3", "name": "Pocari", "price": 20000 },
   { "id": "4", "name": "Red bull", "price": 15000 },
   { "id": "5", "name": "Chanh Muối", "price": 15000 },
-  { "id": "6", "name": "Kem", "price": 7000 }
+  { "id": "6", "name": "Kem", "price": 7000 },
+  { "id": "7", "name": "Kem", "price": 9000 }
+  { "id": "8", "name": "Kem", "price": 10000 }
 
 
 ] 
+
 
